@@ -13,3 +13,33 @@ There are many reasons that we can say for this failure, but the main one is the
 The requirements for an IoT Plafrom were not clear at that time, and this caused a platform that does many things and doesn't do none of them good.
 
 We keep this repository as a reminder for those days, because after all we were friends and done an awesome job on those days together.
+<div dir="rtl">
+
+# دست‌اندرکاران پروژه پلتفرم
+
+- علی محمد صغیری
+- سجاد رهنما
+- یعقوب علیزاده
+- سپهر صبور
+- فاطمه شهرآبادی
+- رامتین شاکری
+- سپیده بیاتی
+- وحید سلمانی
+- نوید شهسواری
+- محمد اسماعیل زاده
+- سامان فکری
+- پرهام الوانی
+- آرش یادگاری
+- علی قاسمپور
+- امیر نورالدینی
+- بهادر بخشی
+- مهدی راستی
+- مسعود صبایی
+- امیرحسین عباسی
+- سعیده ملکان
+- حمیده حسینی
+- امیر محمد حقاللهی
+- آقای سند امنیت
+- آقای درگاه پرداخت
+  
+</div>
