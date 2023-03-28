@@ -1,4 +1,4 @@
-# Amirkabir IoT Research Centre
+# Amirkabir IoT Research Center
 
 ## Our story
 
