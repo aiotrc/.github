@@ -37,7 +37,7 @@ We keep this repository as a reminder for those days, because after all we were 
 - Amirhossien Abbasi
 - Saeedeh Malekan
 - Hamideh Hosseini
-- Amirmohammad Hagholahi
+- AmirMohammad Haghollahi
 - (?)
 - (?)
 
