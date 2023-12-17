@@ -2,17 +2,13 @@
 
 ## Our story
 
-We started our work in [AoLab](https://github.com/AoLab). After doing some awesome works in Home Automation Systems and IoT Platforms,
-University decided to having multiple Laboratories for IoT Research, so Aolab died.
-This research center born, and its main focus was IoT Platform. Our first and actually last project at this research center was [I1820](https://github.com/I1820/).
+We began our journey at [AoLab](https://github.com/AoLab), where we accomplished some outstanding work in the fields of Home Automation Systems and IoT Platforms. Following our success, the university decided to establish multiple laboratories for IoT research, leading to the closure of AoLab. Subsequently, a new research center was established with a primary focus on IoT Platforms. Our inaugural and, ultimately, final project at this center was [I1820](https://github.com/I1820/).
 
-We have our awesome prototype [mia](https://github.com/I1820/mia) from Aolab, but we wanted to change it for [ISRC](https://isrc.ac.ir/) requirements
-(ISRC was our contractor) and this caused a great failure named [I1820](https://github.com/I1820/I1820).
+Although we had developed an impressive prototype named [mia](https://github.com/I1820/mia) at AoLab, we needed to modify it to meet the requirements of [ISRC](https://isrc.ac.ir/) - our contractor at the time. Unfortunately, these changes led to what we now refer to as the great failure of [I1820](https://github.com/I1820/I1820).
 
-There are many reasons that we can say for this failure, but the main one is the requirements.
-The requirements for an IoT Plafrom were not clear at that time, and this caused a platform that does many things and doesn't do none of them good.
+There are numerous factors that contributed to this failure, but the predominant issue was the ambiguity of the IoT Platform requirements at that time. This ambiguity resulted in a platform that attempted to do too much and, as a result, failed to excel at any of its functions.
 
-We keep this repository as a reminder for those days, because after all we were friends and done an awesome job on those days together.
+We maintain this repository as a testament to those times; it serves as a reminder of the camaraderie we shared and the remarkable work we accomplished together.
 
 ## Our Team
 
