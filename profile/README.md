@@ -36,5 +36,3 @@ We maintain this repository as a testament to those times; it serves as a remind
 - AmirMohammad Haghollahi
 - (?)
 - (?)
-
-</div>
